@@ -1,0 +1,103 @@
+Project,Year,Chinook,Steelhead,Sockeye,Chum
+Bonneville,1938,272395,107011,75029,2117
+Bonneville,1939,286156,121932,73382,1148
+Bonneville,1940,391573,185161,148805,1729
+Bonneville,1941,461443,118087,65741,5269
+Bonneville,1942,401998,151395,55474,1865
+Bonneville,1943,313120,92151,39845,790
+Bonneville,1944,240763,100473,15071,954
+Bonneville,1945,297488,120086,9501,727
+Bonneville,1946,446152,142806,74375,1178
+Bonneville,1947,480276,135434,171139,199
+Bonneville,1948,420555,139062,131541,3636
+Bonneville,1949,277697,119285,51444,2028
+Bonneville,1950,357375,114087,77993,1069
+Bonneville,1951,331788,149539,169428,1044
+Bonneville,1952,420879,260990,184646,1504
+Bonneville,1953,332479,223914,235215,1728
+Bonneville,1954,320947,176260,130107,1569
+Bonneville,1955,359853,198411,237748,318
+Bonneville,1956,300917,131116,156418,693
+Bonneville,1957,403286,139184,82915,569
+Bonneville,1958,416419,131347,122389,455
+Bonneville,1959,345028,129026,86560,906
+Bonneville,1960,256049,113676,59713,1026
+Bonneville,1961,281980,139726,17111,896
+Bonneville,1962,286625,164025,28179,1013
+Bonneville,1963,278560,129418,60319,740
+Bonneville,1964,344422,117252,99853,632
+Bonneville,1965,317956,166445,55125,496
+Bonneville,1966,340111,143661,156661,872
+Bonneville,1967,366153,121872,144157,352
+Bonneville,1968,341128,106974,108207,79
+Bonneville,1969,507588,141782,59636,143
+Bonneville,1970,384780,113510,70762,209
+Bonneville,1971,405702,193966,87447,29
+Bonneville,1972,394456,185886,56323,1
+Bonneville,1973,398635,157823,58979,43
+Bonneville,1974,366759,137054,43837,23
+Bonneville,1975,425566,85540,58212,11
+Bonneville,1976,507773,124177,43611,11
+Bonneville,1977,366657,193437,99829,17
+Bonneville,1978,394600,104431,18436,28
+Bonneville,1979,276306,114007,52628,1
+Bonneville,1980,207770,129254,58882,0
+Bonneville,1981,232299,159270,56037,0
+Bonneville,1982,247911,157640,50219,0
+Bonneville,1983,185665,213779,100527,0
+Bonneville,1984,216465,315587,152545,0
+Bonneville,1985,296429,343961,166340,0
+Bonneville,1986,370729,379891,58123,0
+Bonneville,1987,468610,303081,116993,0
+Bonneville,1988,411896,279072,79714,0
+Bonneville,1989,373205,287798,41884,16
+Bonneville,1990,296525,183027,49581,25
+Bonneville,1991,226411,274545,76481,5
+Bonneville,1992,219688,314975,84992,39
+Bonneville,1993,259337,188377,80178,17
+Bonneville,1994,208197,161978,12678,26
+Bonneville,1995,189419,202448,8774,30
+Bonneville,1996,272884,205216,30232,21
+Bonneville,1997,360673,258385,47008,46
+Bonneville,1998,248860,185094,13218,118
+Bonneville,1999,306981,206488,17877,43
+Bonneville,2000,401711,275178,93398,17
+Bonneville,2001,867728,633073,114934,29
+Bonneville,2002,870035,480309,49610,17
+Bonneville,2003,921314,365821,39291,411
+Bonneville,2004,846026,313371,123291,42
+Bonneville,2005,570413,315650,72971,139
+Bonneville,2006,493708,339301,37066,165
+Bonneville,2007,275954,325275,24376,142
+Bonneville,2008,518942,357816,213607,75
+Bonneville,2009,480284,604970,177823,109
+Bonneville,2010,809799,416603,386525,124
+Bonneville,2011,677171,369365,185796,50
+Bonneville,2012,589937,235276,515673,65
+Bonneville,2013,1129664,234047,185505,167
+Bonneville,2014,1152642,326001,614179,122
+Bonneville,2015,1337101,268730,510706,176
+Bonneville,2016,697979,188128,342498,47
+Bonneville,2017,488981,117878,87693,21
+Bonneville,2018,336030,102920,193816,180
+Bonneville,2019,381773,77320,63046,316
+Bonneville,2020,535745,114423,341739,193
+Bonneville,2021,489523,71980,151765,333
+Bonneville,2022,752638,126367,663253,299
+Bonneville,2023,722270,116008,327600,615
+Bonneville,2024,648902,181904,755909,1135
+Bonneville,2025,632461,156869,166711,511
+Bonneville,2026,5,696,0,1
+Notes:,,,,,
+Columbia River DART,,,,,
+Adult Passage Annual Counts,,,,,
+Bonneville for 1/1 - 12/31,,,,,
+Generated 23 Feb 2026 14:18:26 PST. DART Adult Passage Annual Counts www.cbr.washington.edu/dart/query/adult_annual_sum.,,,,,
+(+) The Annual Summary for 2026 may be incomplete; the last possible day of data included in the results is 02/22/2026.,,,,,
+Data Courtesy of U.S. Army Corps of Engineers,,,,,
+Steelhead Counts: The Steelhead parameter includes both hatchery and wild counts. Prior to 1995 ,,,,,
+wild steelhead data was not published on a daily basis. The Steelhead-Wild parameter is a subset of the total ,,,,,
+steelhead and may include unmarked hatchery fish.,,,,,
+Lamprey Counts: Historically; DART has only offered daytime counts (fish counting hours 1-16) which were identified as Lamprey but not specified as daytime counts. As of 2025-11-14; where available; DART offers up to three mutually exclusive lamprey counts: daytime fishway ladder counts (hours 1-16); nighttime fishway ladder counts (hours 17-24); and LPS (24 hour count in Lamprey Passage Systems).,,,,,
+November 14; 2004 No fish counts from the Bonneville Bradford Island fishladder.  The video of the fish counting window was unreadable. http://www.nwp.usace.army.mil/environment/fishdata.asp,,,,,
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2026). Adult Passage Annual Counts. Available from https://www.cbr.washington.edu/dart/query/adult_annual_sum.",,,,,
