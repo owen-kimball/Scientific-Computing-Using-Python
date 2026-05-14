@@ -7,4 +7,4 @@ This repository contains files exploring the processes of gradient descent and r
 - Error analysis
 - Scientific data processing
 
-This was developed as coursework for Applied Computational and Mathematical Sciences coursework at the University of Washington.
+Developed as part of Applied & Computational Mathematical Sciences coursework at the University of Washington using Python scientific computing tools including NumPy, Pandas, SciPy, and Matplotlib.
